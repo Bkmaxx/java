@@ -4,7 +4,7 @@ public class Bread{
     public static void main(String[] args) throws IOException  {
         char c;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("ENter f to Fuck BkmAXX");
+        System.out.println("Enter f to quit : ");
         do{
             c = (char)br.read();
             System.out.println(c);
