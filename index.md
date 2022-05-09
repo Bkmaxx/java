@@ -11,3 +11,8 @@ FinallayDemo.java
 Threadd.java
 GraphicsDemo.java
 NewException.java
+Bread.java
+This.java
+Throw.java
+Throws.java
+Pattern.java {For inheritance}
